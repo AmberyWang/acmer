@@ -1,6 +1,7 @@
 package org.old.wang;
 
 import java.util.Random;
+import java.util.Stack;
 
 /**
  * 给定一个很大很大的数组，求出第 N 大的数是哪个
